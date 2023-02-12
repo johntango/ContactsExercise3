@@ -1,0 +1,25 @@
+{
+  "name": "contactsexercise",
+  "version": "1.0.0",
+  "description": "generate, read and write contacts",
+  "main": "readContacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johntango/ContactsExercise1.git"
+  },
+  "author": "jrw@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johntango/ContactsExercise1/issues"
+  },
+  "homepage": "https://github.com/johntango/ContactsExercise1#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "fs": "0.0.1-security",
+    "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21"
+  }
+}
